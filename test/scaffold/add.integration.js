@@ -94,7 +94,7 @@ describe('#add', function() {
       var callCount = 0;
       var oldPackage = {
         dependencies: {
-          'bitcore-lib-joli': '^v0.13.7',
+          'bitcore-lib-joli': 'dalijolijo/bitcore-lib-joli',
           'bitcore-node': '^v0.2.0'
         }
       };
